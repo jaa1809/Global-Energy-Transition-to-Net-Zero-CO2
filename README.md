@@ -5,11 +5,11 @@ For This project I gathered data from the International Energy Agency which is a
 My Datasets contains: world electricity supply, Electricity demands by Region, Electricity generation by region, energy buildings consumption, Energy transport consumption, industries consumption, Renewable energy supply, Renewable energy generation, Solar energy generation, Wind energy generation, Total CO2 emissions, World energy supply, World energy consumption, Global_gdp, Global population.
 
 **Technologies Used:**
-mport numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches 
-import seaborn as sns
-from scipy import stats
-import datetime as datetime
+<p> import numpy as np </p>
+<p> import pandas as pd </p>
+<p> import matplotlib.pyplot as plt </p>
+<p> import matplotlib.patches as mpatches </p>
+<p> import seaborn as sns </p>
+<p> from scipy import stats </p>
+<p> import datetime as datetime </p>
 
